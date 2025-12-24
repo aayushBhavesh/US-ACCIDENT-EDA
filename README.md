@@ -81,6 +81,7 @@ https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 ---
 
 ## 📁 Project Structure
+
 ├── notebooks/
 │ └── eda_us_accidents.ipynb
 ├── eda_plots/
